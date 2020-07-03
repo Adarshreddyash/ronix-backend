@@ -4,6 +4,7 @@ from django.shortcuts import render
 from rest_framework import generics ,filters
 from .models import Songs
 from .serializers import SongsSerializer
+from rest_framework import permissions
 
 
 class ListSongsView(generics.ListAPIView):
@@ -14,3 +15,4 @@ class ListSongsView(generics.ListAPIView):
     serializer_class = SongsSerializer
     search_fields = ['title']
     filter_backends = (filters.SearchFilter,)
+    permission_classes = (permissions.IsAuthenticated,)
