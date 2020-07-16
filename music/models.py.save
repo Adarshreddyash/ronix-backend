@@ -5,7 +5,7 @@ from django.conf import settings
 # Create your models here.
 class Songs(models.Model):
     # song title
-    id = models.AutoField(primary_key=True)
+    
     title = models.CharField(max_length=255, null=False)
     # name of artist or group/band
     artist = models.CharField(max_length=255, null=False)
@@ -14,4 +14,4 @@ class Songs(models.Model):
     album = models.ImageField(upload_to ='album/',null=True)
     
     def __str__(self):
-        return "{} - {} - {} - {}- {}-{}".format(self.id, self.title, self.artist, self.song , self.uploader ,self.album)
+        return "{} - {} - {} - {}- {}".format(self.title, self.artist, self.song , self.uploader ,self.album)
