@@ -175,7 +175,7 @@ EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = DEFAULT_FROM_EMAIL = 'adarshreddyadelli@kitssingapuram.ac.in'
-EMAIL_HOST_PASSWORD = 'adi@django'
+EMAIL_HOST_PASSWORD = 'ash@kits'
 
 
 REST_AUTH_SERIALIZERS = {
