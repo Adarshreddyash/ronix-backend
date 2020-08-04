@@ -1,2 +1,5 @@
 # ronix-backend
-[![Netlify Status](https://api.netlify.com/api/v1/badges/63c5c2c9-f1eb-4dfe-b5d6-604ef0946a87/deploy-status)](https://app.netlify.com/sites/ronix/deploys)
+MUSIC API BACKEND 
+check live here [Click here](https://ronix-backend.herokuapp.com/api/v1/songs),
+
+Step by step tutorial [Lets Build a music streaming app with Django ,vuejs , Django rest framework and jwt](https://glammingspace.blogspot.com/2020/08/lets-build-music-streaming-app-with.html)
