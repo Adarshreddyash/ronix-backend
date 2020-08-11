@@ -25,7 +25,7 @@ SECRET_KEY = '7yb3blud5#-5-@sh@e!=zfj+47gs&2xj2my2@@^f4#*-mo4u=c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ronix-backend.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['*,ronix-backend.herokuapp.com','127.0.0.1']
 
 
 # Application definition
