@@ -28,14 +28,14 @@
   <p align="center">
     BACKEND MUSIC streaming API 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Checkout Step by step tutorial »</strong></a>
+    <a href="https://glammingspace.blogspot.com/2020/08/lets-build-music-streaming-app-with.html"><strong>Checkout Step by step tutorial »</strong></a>
     <br />
     <br />
     <a href="https://ronix-backend.herokuapp.com/api/v1/songs">View Demo</a>
     ·
     <a href="https://github.com/Adarshreddyash/ronix-backend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Adarshreddyash/ronix-backend/issues">Request Feature</a>
+    <a href="https://github.com/Adarshreddyash/ronix-frontend">Frontend Repo Vuejs</a>
   </p>
 </p>
 
