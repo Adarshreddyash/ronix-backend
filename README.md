@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Adarshreddyash/ronix-backend">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -33,9 +33,9 @@
     <br />
     <a href="https://ronix-backend.herokuapp.com/api/v1/songs">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Adarshreddyash/ronix-backend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Adarshreddyash/ronix-backend/issues">Request Feature</a>
   </p>
 </p>
 
