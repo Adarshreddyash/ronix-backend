@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Adarshreddyash/ronix-backend">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/Adarshreddyash/background-images-icons/master/play.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ronix-backend</h3>
