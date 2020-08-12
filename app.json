@@ -1,0 +1,7 @@
+{
+  "name": "ronix-backend",
+  "description": "A music streaming backend using django rest framework",
+  "repository": "https://github.com/Adarshreddyash/ronix-backend",
+  "logo": "https://raw.githubusercontent.com/Adarshreddyash/background-images-icons/master/play.svg",
+  "keywords": ["Django", "Django rest framework", "vuejs" , "music api" , "API"]
+}
