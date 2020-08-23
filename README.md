@@ -60,16 +60,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+There arent great tutorials that teaches Django + Vuejs , So, I created this to show the capability of Django and how easy it is to build enterprise level applications with Django and Vuejs.
 
 ### Built With
 This section lists major frameworks which we used to built this project.
@@ -82,21 +73,16 @@ This section lists major frameworks which we used to built this project.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy and running  up  follow these simple steps.
 
 ### Prerequisites
 
-We need to have following.
-* Python.
-* npm
+We need the following.
 
-```sh
-npm install npm@latest -g
-```
+* Python3.
+* git.
 
 ### Installation
-
 
 1. Clone the repo
 ```sh
@@ -106,19 +92,31 @@ git clone https://github.com/Adarshreddyash/ronix-backend.git
 ```sh
 pip install -r requirements.txt
 ```
-
-
-
-
+3. Make migrations
+```sh
+python manage.py makemigrations
+```
+4. Run
+```sh
+python manage.py runserver
+```
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage {endpoints}
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
+Songs
+```sh
+127.0.0.1:8000/api/v1/songs
+```
+Authentication
+```sh
+127.0.0.1:8000/rest-auth/registration/
+127.0.0.1:8000/rest-auth/login/
+```
+JWT Tokens
+```sh
+127.0.0.1:8000/api/v1/auth/obtain_token/
+127.0.0.1:8000/api/v1/auth/refresh_token/
+```
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -149,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Twitter - [@adarshreddyash](https://twitter.com/adarshreddyash)
 
 Project Link: [https://github.com/Adarshreddyash/ronix-backend](https://github.com/Adarshreddyash/ronix-backend)
 
