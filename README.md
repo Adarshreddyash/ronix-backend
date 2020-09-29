@@ -57,6 +57,7 @@
 ## About The Project
 
 ![Screenshot](https://raw.githubusercontent.com/Adarshreddyash/ronix-backend/master/media_root/localhost_8080_songs.png)
+>Image credits to its respective creators
 
 There arent great tutorials that teaches Django + Vuejs , So, I created this to show the capability of Django and how easy it is to build enterprise level applications with Django and Vuejs.
 
