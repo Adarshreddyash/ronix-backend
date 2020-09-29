@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/Adarshreddyash/ronix-backend/master/media_root/localhost_8080_songs.png)
+![Screenshot](https://raw.githubusercontent.com/Adarshreddyash/ronix-backend/master/media_root/localhost_8080_songs.png)
 
 There arent great tutorials that teaches Django + Vuejs , So, I created this to show the capability of Django and how easy it is to build enterprise level applications with Django and Vuejs.
 
